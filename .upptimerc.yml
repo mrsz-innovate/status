@@ -20,7 +20,7 @@ status-website:
   logoUrl: https://eventnexo.s3.us-west-1.amazonaws.com/white-logo.png
   name: Eventnexo
   introTitle: "**Eventnexo** is a platform where event creator, community leads can build, grow and scale your events/contests with our powerful infrastructure."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/mrsz-innovate/status).
   navbar:
     - title: Status
       href: /
