@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 425,
-    "timeDay": 214,
-    "timeWeek": 212,
-    "timeMonth": 446,
-    "timeYear": 425,
+    "time": 420,
+    "timeDay": 103,
+    "timeWeek": 204,
+    "timeMonth": 445,
+    "timeYear": 420,
     "dailyMinutesDown": {
       "2022-07-03": 16
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
-    "time": 343,
-    "timeDay": 306,
-    "timeWeek": 145,
-    "timeMonth": 386,
-    "timeYear": 343,
+    "time": 339,
+    "timeDay": 109,
+    "timeWeek": 155,
+    "timeMonth": 385,
+    "timeYear": 339,
     "dailyMinutesDown": {
       "2022-07-03": 26
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 256,
-    "timeDay": 382,
-    "timeWeek": 371,
-    "timeMonth": 274,
-    "timeYear": 256,
+    "time": 254,
+    "timeDay": 116,
+    "timeWeek": 376,
+    "timeMonth": 273,
+    "timeYear": 254,
     "dailyMinutesDown": {}
   },
   {
@@ -63,18 +63,19 @@
     "icon": "https://eventnexo.co/favicon.png",
     "slug": "backend-api",
     "status": "down",
-    "uptime": "98.17%",
-    "uptimeDay": "19.02%",
-    "uptimeWeek": "88.43%",
-    "uptimeMonth": "97.34%",
-    "uptimeYear": "98.17%",
+    "uptime": "96.55%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "74.16%",
+    "uptimeMonth": "94.05%",
+    "uptimeYear": "96.55%",
     "time": 391,
     "timeDay": 0,
-    "timeWeek": 384,
-    "timeMonth": 371,
+    "timeWeek": 366,
+    "timeMonth": 373,
     "timeYear": 391,
     "dailyMinutesDown": {
-      "2022-07-31": 128,
+      "2022-08-01": 126,
+      "2022-07-31": 1440,
       "2022-07-30": 1038,
       "2022-06-07": 398
     }
