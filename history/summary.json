@@ -5,12 +5,12 @@
     "icon": "https://eventnexo.co/favicon.png",
     "slug": "dashboard",
     "status": "down",
-    "uptime": "82.79%",
+    "uptime": "82.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "73.47%",
-    "time": 378,
+    "time": 379,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -122,7 +122,7 @@
     "icon": "https://eventnexo.co/favicon.png",
     "slug": "eventnexo-website",
     "status": "down",
-    "uptime": "82.78%",
+    "uptime": "82.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -231,8 +231,7 @@
       "2023-03-15": 1440,
       "2023-03-14": 1440,
       "2023-03-13": 412,
-      "2022-12-28": 19,
-      "2022-12-18": 36
+      "2022-12-28": 19
     }
   },
   {
@@ -241,7 +240,7 @@
     "icon": "https://eventnexo.co/favicon.png",
     "slug": "me-app",
     "status": "down",
-    "uptime": "82.80%",
+    "uptime": "82.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -250,7 +249,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 276,
+    "timeYear": 275,
     "dailyMinutesDown": {
       "2023-06-18": 807,
       "2023-06-17": 1440,
@@ -358,11 +357,11 @@
     "icon": "https://eventnexo.co/favicon.png",
     "slug": "backend-api",
     "status": "down",
-    "uptime": "42.57%",
+    "uptime": "42.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "49.72%",
+    "uptimeYear": "50.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -550,8 +549,7 @@
       "2022-12-22": 1440,
       "2022-12-21": 1440,
       "2022-12-20": 1440,
-      "2022-12-19": 1440,
-      "2022-12-18": 1440
+      "2022-12-19": 1440
     }
   }
 ]
