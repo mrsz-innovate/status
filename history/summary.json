@@ -5,12 +5,12 @@
     "icon": "https://eventnexo.co/favicon.png",
     "slug": "dashboard",
     "status": "down",
-    "uptime": "85.21%",
+    "uptime": "85.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "74.65%",
-    "time": 378,
+    "uptimeYear": "74.93%",
+    "time": 380,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -105,8 +105,7 @@
       "2023-03-24": 1440,
       "2023-03-23": 1440,
       "2023-03-22": 1440,
-      "2023-03-21": 1440,
-      "2023-03-20": 1440
+      "2023-03-21": 1440
     }
   },
   {
@@ -115,12 +114,12 @@
     "icon": "https://eventnexo.co/favicon.png",
     "slug": "eventnexo-website",
     "status": "down",
-    "uptime": "85.20%",
+    "uptime": "85.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "74.65%",
-    "time": 281,
+    "uptimeYear": "74.93%",
+    "time": 258,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -215,8 +214,7 @@
       "2023-03-24": 1440,
       "2023-03-23": 1440,
       "2023-03-22": 1440,
-      "2023-03-21": 1440,
-      "2023-03-20": 1440
+      "2023-03-21": 1440
     }
   },
   {
@@ -225,12 +223,12 @@
     "icon": "https://eventnexo.co/favicon.png",
     "slug": "me-app",
     "status": "down",
-    "uptime": "85.21%",
+    "uptime": "85.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "74.65%",
-    "time": 275,
+    "uptimeYear": "74.93%",
+    "time": 274,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -325,8 +323,7 @@
       "2023-03-24": 1440,
       "2023-03-23": 1440,
       "2023-03-22": 1440,
-      "2023-03-21": 1440,
-      "2023-03-20": 1440
+      "2023-03-21": 1440
     }
   },
   {
@@ -335,11 +332,11 @@
     "icon": "https://eventnexo.co/favicon.png",
     "slug": "backend-api",
     "status": "down",
-    "uptime": "50.63%",
+    "uptime": "50.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "74.65%",
+    "uptimeYear": "74.93%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -435,8 +432,7 @@
       "2023-03-24": 1440,
       "2023-03-23": 1440,
       "2023-03-22": 1440,
-      "2023-03-21": 1440,
-      "2023-03-20": 1440
+      "2023-03-21": 1440
     }
   }
 ]
